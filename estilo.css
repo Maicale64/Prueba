@@ -196,4 +196,7 @@ margin: 0 17% 0 0;
 .secciond{
 padding-top: 90%;    
 }
+.vid:hover a{
+display: block;
+}
   }
